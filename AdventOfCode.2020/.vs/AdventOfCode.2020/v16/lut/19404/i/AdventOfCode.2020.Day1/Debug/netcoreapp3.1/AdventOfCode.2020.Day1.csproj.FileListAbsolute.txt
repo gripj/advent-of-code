@@ -1,2 +1,0 @@
-C:\dev\private\advent-of-code\AdventOfCode.2020\.vs\AdventOfCode.2020\v16\lut\0\i\AdventOfCode.2020.Day1\Debug\netcoreapp3.1\AdventOfCode.2020.Day1.AssemblyInfoInputs.cache
-C:\dev\private\advent-of-code\AdventOfCode.2020\.vs\AdventOfCode.2020\v16\lut\0\i\AdventOfCode.2020.Day1\Debug\netcoreapp3.1\AdventOfCode.2020.Day1.AssemblyInfo.cs
