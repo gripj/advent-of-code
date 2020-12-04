@@ -9,7 +9,7 @@ namespace AdventOfCode._2020.Day4
   public class PartOne
   {
     [Test]
-    public void Passport_Should_Parse_From_FieldLines()
+    public void Passport_Is_Parsed_From_FieldLines()
     {
       var fieldLines = new List<string>()
       {
@@ -30,7 +30,7 @@ namespace AdventOfCode._2020.Day4
     }
 
     [Test]
-    public void Passport_With_All_Fields_Are_Valid()
+    public void Passport_With_All_Fields_Is_Valid()
     {
       var allFieldLines = new List<string>()
       {
@@ -42,7 +42,7 @@ namespace AdventOfCode._2020.Day4
     }
 
     [Test]
-    public void Passport_With_Missing_Fields_Should_Be_Invalid()
+    public void Passport_With_Missing_Fields_Is_Invalid()
     {
       var allFieldLines = new List<string>()
       {
@@ -54,7 +54,7 @@ namespace AdventOfCode._2020.Day4
     }
 
     [Test]
-    public void Passport_With_Cid_As_Only_Missing_Field_Should_Be_Valid()
+    public void Passport_With_Cid_As_Only_Missing_Field_Is_Valid()
     {
       var allFieldLines = new List<string>()
       {
